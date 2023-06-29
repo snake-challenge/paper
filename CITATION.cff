@@ -1,0 +1,48 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'The SNAKE challenge: Sanitization algorithms under attack'
+message: Please cite this paper using the metadata from this file.
+type: software
+authors:
+  - given-names: Tristan
+    family-names: Allard
+    email: tristan.allard@irisa.fr
+    affiliation: 'Univ Rennes, CNRS, IRISA'
+    orcid: 'https://orcid.org/0000-0002-2777-0027'
+  - given-names: Louis
+    family-names: Béziaud
+    email: louis.beziaud@irisa.fr
+    affiliation: >-
+      Univ Rennes, CNRS, IRISA & Université du Québec à
+      Montréal
+    orcid: 'https://orcid.org/0000-0002-4974-3492'
+  - given-names: Sébastien
+    family-names: Gambs
+    email: gambs.sebastien@uqam.ca
+    affiliation: Université du Québec à Montréal
+repository-code: 'https://github.com/snake-challenge/paper/'
+url: 'https://snake-challenge.github.io/'
+repository: 'https://github.com/snake-challenge/snake1/'
+license: CC-BY-4.0
+preferred-citation: 
+  type: report
+  authors:
+  - given-names: Tristan
+    family-names: Allard
+    email: tristan.allard@irisa.fr
+    affiliation: 'Univ Rennes, CNRS, IRISA'
+    orcid: 'https://orcid.org/0000-0002-2777-0027'
+  - given-names: Louis
+    family-names: Béziaud
+    email: louis.beziaud@irisa.fr
+    affiliation: >-
+      Univ Rennes, CNRS, IRISA & Université du Québec à
+      Montréal
+    orcid: 'https://orcid.org/0000-0002-4974-3492'
+  - given-names: Sébastien
+    family-names: Gambs
+    email: gambs.sebastien@uqam.ca
+    affiliation: Université du Québec à Montréal
+  title: 'The SNAKE challenge: Sanitization algorithms under attack'
